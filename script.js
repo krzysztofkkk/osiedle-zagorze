@@ -102,5 +102,5 @@ if (nextBtn) {
 }
 
 if (videoPlayer) {
-  videoPlayer.playbackRate = 0.8;
+  videoPlayer.playbackRate = 0.5;
 }
